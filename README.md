@@ -1,1 +1,1 @@
-# stickynote-code
+A sticky note with Javascript and React
